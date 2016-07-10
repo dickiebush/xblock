@@ -1,0 +1,9 @@
+/* CSS for HistoryXBlock */
+
+.hist_block .count {
+    font-weight: bold;
+}
+
+.hist_block p {
+    cursor: pointer;
+}
